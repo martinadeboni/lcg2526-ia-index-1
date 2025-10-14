@@ -169,6 +169,8 @@ function rollColor(){
   //intero inferiore, 1.1 --> 1
   // bckgcolor = floor(idx);
   //intero superiore, 1.1 --> 2
+  //un numeroo intero
+  //tra 1 e 7
   bckgcolor = colors[ceil(idx)];
   //redraw();
 }
